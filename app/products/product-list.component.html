@@ -1,0 +1,18 @@
+<div *ngIf='products && products.length'>
+    <div  *ngFor='#product of products; #i = index' >
+        <div class="row row-eq-height" *ngIf='i % 6 == 0'>
+            <div class="col-md-2" *ngFor='#n of [i,i+1,i+2,i+3,i+4,i+5]'>
+                <div class="thumbnail">
+                    <a><img [src]='products[n].ImgUrl' /></a>
+                    <div class="caption">
+                        <h3 [routerLink]="['ProductDetail', {id: products[n].id}]">{{products[n].Name}}</h3>
+                        <a class="text-muted">{{products[n].Category}}</a>
+                        <p>{{products[n].Description}}</p>
+                        <h3>{{products[n].Price | currency:'GBP':true:'1.2-2'}}</h3>
+                        <button class="btn btn-success" (click)="addToBasket(n)">Add to basket</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

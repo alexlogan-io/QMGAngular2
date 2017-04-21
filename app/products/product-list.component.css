@@ -1,0 +1,13 @@
+.row-eq-height {
+  display:flex;
+}
+
+.row-eq-height > [class*="col-"] {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+div > a > img{
+    height:180px !important;
+    max-width:171px;
+}

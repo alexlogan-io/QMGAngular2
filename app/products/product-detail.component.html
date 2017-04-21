@@ -1,0 +1,13 @@
+<div *ngIf='product'>
+    <div class="col-md-4">
+        <div class="thumbnail">
+            <a><img [src]='product.ImgUrl' /></a>
+            <div class="caption">
+                <h3>{{product.Name}}</h3>
+                <h4 class="text-muted">{{product.Category}}</h4>
+                <p>{{product.Description}}</p>
+                <h3>{{product.Price | currency:'GBP':true}}</h3>
+            </div>
+        </div>
+    </div>
+</div>

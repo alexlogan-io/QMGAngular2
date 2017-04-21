@@ -1,0 +1,194 @@
+[
+    {
+        "id":1,
+        "Name" : "Oak Plank",
+        "Category" : "Timber",
+        "Description" : "An oak plank of timber",
+        "Price" : 16.0,
+        "ImgUrl" : "http://www.birbek.com/gfx/products/large/l_oldtradition.jpg"
+    },
+    {
+        "id":2,
+        "Name" : "Ash Plank",
+        "Category" : "Timber",
+        "Description" : "An ash plank of timber",
+        "Price" : 4.0,
+        "ImgUrl" : "http://www.countrymouldings.com/images/butcher-block-countertops/prefinished-ash-plank-countertop-m.jpg"
+    },
+    {
+        "id":3,
+        "Name" : "Mahogany Plank",
+        "Category" : "Timber",
+        "Description" : "An mahogany plank of timber",
+        "Price" : 8.0,
+        "ImgUrl" : "http://www.countrymouldings.com/images/butcher-block-countertops/prefinished-mahogany-plank-countertop-m.jpg"
+    },
+    {
+        "id":4,
+        "Name" : "Nails",
+        "Category" : "General",
+        "Description" : "Some nails",
+        "Price" : 9.0,
+        "ImgUrl" : "http://s7g3.scene7.com/is/image/ae235/cat840028?$catImageSmall$"
+    },
+    {
+        "id":5,
+        "Name" : "Screws",
+        "Category" : "General",
+        "Description" : "Some screws",
+        "Price" : 2.0,
+        "ImgUrl" : "http://screwcapsuk.com/_userfiles/pages/images/supachipscrews/SupaChipScrews.jpg"
+    },
+    {
+        "id":6,
+        "Name" : "Tin Roof",
+        "Category" : "Roofing",
+        "Description" : "A section of tin roof",
+        "Price" : 15.0,
+        "ImgUrl" : "http://img04.deviantart.net/cc5e/a/large/textures/tmetal/tin_roof.jpg"
+    },
+    {
+        "id":7,
+        "Name" : "Thatch Roof",
+        "Category" : "Roofing",
+        "Description" : "A nice section of thatch roof",
+        "Price" : 130.0,
+        "ImgUrl" : "http://area.autodesk.com/userdata/forum/9/9893_vQXnLqo0rA5WdSOSzrZv.jpg"
+    },
+    {
+        "id":8,
+        "Name" : "Sheet Metal",
+        "Category" : "Metal",
+        "Description" : "Its not that bad.",
+        "Price" : 50.0,
+        "ImgUrl" : "http://travisperkins.scene7.com/is/image/travisperkins/R2362_116692_00?$normal$"
+    },
+    {
+        "id":9,
+        "Name" : "Hammer",
+        "Category" : "Tools",
+        "Description" : "A hammer.",
+        "Price" : 7.0,
+        "ImgUrl" : "http://pngimg.com/upload/hammer_PNG3890.png"
+    },
+    {
+        "id":10,
+        "Name" : "Drill",
+        "Category" : "Tools",
+        "Description" : "Power drill",
+        "Price" : 11.0,
+        "ImgUrl" : "http://www.staticwhich.co.uk/media/images/taster/electric-drill-taster-334372.jpg"
+    },
+    {
+        "id":11,
+        "Name" : "Pliars",
+        "Category" : "Tools",
+        "Description" : "A pair of pliars.",
+        "Price" : 12.0,
+        "ImgUrl" : "https://upload.wikimedia.org/wikipedia/commons/5/51/Tool-pliers.jpg"
+    },
+    {
+        "id":12,
+        "Name" : "Saw",
+        "Category" : "Tools",
+        "Description" : "A saw.",
+        "Price" : 18.0,
+        "ImgUrl" : "http://www.harborfreight.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_14661.jpg"
+    },
+    {
+        "id":13,
+        "Name" : "Spirit Level",
+        "Category" : "Tools",
+        "Description" : "A spirit level.",
+        "Price" : 12.0,
+        "ImgUrl" : "http://travisperkins.scene7.com/is/image/travisperkins/T3274_167337_00?id=8y9TX3&fmt=jpg&fit=constrain,1&wid=310&hei=310"
+    },
+    {
+        "id":14,
+        "Name" : "Hack Saw",
+        "Category" : "Tools",
+        "Description" : "A hack saw.",
+        "Price" : 18.0,
+        "ImgUrl" : "https://www.dlsweb.rmit.edu.au/toolbox/electrotech/toolbox1204/resources/03workshop/05hand_tools/images/hacksaw.jpg"
+    },
+    {
+        "id":15,
+        "Name" : "Philips head screwdriver",
+        "Category" : "Tools",
+        "Description" : "A philips head screwdriver.",
+        "Price" : 9.0,
+        "ImgUrl" : "http://images.ffx.co.uk/tools/STA064930.JPG"
+    },
+    {
+        "id":16,
+        "Name" : "Flat Head Screwdriver",
+        "Category" : "Tools",
+        "Description" : "A flat head screwdriver.",
+        "Price" : 8.0,
+        "ImgUrl" : "http://previewcf.turbosquid.com/Preview/2014/05/22__23_40_00/screwdriver_overview.jpg7F96BB1B-6EDF-4DFB-A9B22D7DD2801BB6.jpgLarger.jpg"
+    },
+    {
+        "id":17,
+        "Name" : "Dowling Rod",
+        "Category" : "DIY",
+        "Description" : "A dowling rod.",
+        "Price" : 1800.0,
+        "ImgUrl" : "https://placebrandingofpublicspace.files.wordpress.com/2013/02/dowel.jpg?w=645"
+    },
+    {
+        "id":18,
+        "Name" : "Super Glue",
+        "Category" : "DIY",
+        "Description" : "Suuper glue",
+        "Price" : 1.0,
+        "ImgUrl" : "http://www.pratleyadhesives.com.au/media/1020/pratley-superglue-20g_500x409.jpg"
+    },
+    {
+        "id":19,
+        "Name" : "Red Brick",
+        "Category" : "Materials",
+        "Description" : "Red brick",
+        "Price" : 5.0,
+        "ImgUrl" : "http://thumbs.dreamstime.com/t/single-red-brick-white-background-isolate-45246307.jpg"
+    },
+    {
+        "id":20,
+        "Name" : "Insulating Bricks",
+        "Category" : "Materials",
+        "Description" : "Insulating bricks",
+        "Price" : 4.0,
+        "ImgUrl" : "http://www.fieldfurnace.com.au/images/008.JPG"
+    },
+    {
+        "id":21,
+        "Name" : "Axe",
+        "Category" : "Tools",
+        "Description" : "A axe.",
+        "Price" : 36.0,
+        "ImgUrl" : "https://www.raymears.com/_rm_pictures_/Gransfors-Outdoor-Axe1.jpg"
+    },
+    {
+        "id":22,
+        "Name" : "Angle Grinder",
+        "Category" : "Tools",
+        "Description" : "An angle grinder.",
+        "Price" : 181.0,
+        "ImgUrl" : "http://assets.jewson.co.uk/category-images/9624/Main/9624.jpg"
+    },
+    {
+        "id":23,
+        "Name" : "Smart Materials",
+        "Category" : "Materials",
+        "Description" : "Some smart material",
+        "Price" : 18.0,
+        "ImgUrl" : "https://webdocs.cs.ualberta.ca/~database/MEMS/sma_mems/img/goop.gif"
+    },
+    {
+        "id":24,
+        "Name" : "Nut",
+        "Category" : "DIY",
+        "Description" : "A nut.",
+        "Price" : 18000.0,
+        "ImgUrl" : "https://www.belmetric.com/images/AML14SS.jpg"
+    }
+]
